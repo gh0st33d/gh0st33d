@@ -1,5 +1,5 @@
 <h2 align='center'>Hi there 👋</h2>
-<h3 align='center'>I am Arafat Amin Drubo</h3>
+<h3 align='center'>I am Arafat Bin Amin Drubo</h3>
 
 <h2 align='center'>Stats:</h2>
   
